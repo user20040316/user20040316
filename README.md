@@ -5,9 +5,6 @@
   <a href="https://github.com/user20040316">
     <img height="20" src="https://img.shields.io/github/followers/user20040316?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/user20040316">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/user20040316/posts.svg" />
-  </a>
 </p>
 
 ## Stats
