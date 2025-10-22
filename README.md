@@ -8,12 +8,6 @@
   <a href="http://qiita.com/user20040316">
     <img height="20" src="https://qiita-badge.apiapi.app/s/user20040316/posts.svg" />
   </a>
-  <a href="http://qiita.com/user20040316">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/user20040316/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/user20040316">
-    <img height="20" src="https://badgen.org/img/zenn/user20040316/articles?style=plastic" />
-  </a>
 </p>
 
 
