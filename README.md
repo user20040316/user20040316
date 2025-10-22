@@ -10,6 +10,16 @@
   </a>
 </p>
 
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=user20040316&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=user20040316&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=user20040316&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=user20040316&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=user20040316&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
+
 
 <!--
 **user20040316/user20040316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
